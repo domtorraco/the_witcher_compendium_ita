@@ -35,9 +35,9 @@
       "name": "razze",
       "label": "Razze",
       "path": "packs/razze",
+      "entity": "Item",
       "type": "Item",
       "package": "the_witcher_compendium_ita"
-      "flags": {}
     }
   ],
   "url": "https://github.com/domtorraco/the_witcher_compendium_ita",
