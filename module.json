@@ -1,7 +1,7 @@
 {
-  "id": "tor2eita",
-  "title": "Tor2e Compendium italiano",
-  "version": "0.8",
+  "id": "the_witcher_compendium_ita",
+  "title": "The Witcher GDR Compendium ITA",
+  "version": "0.1",
   "authors": [
     {
       "name": "Balian",
@@ -10,9 +10,9 @@
     }
   ],
   "compatibility": {
-    "minimum": "10",
-    "maximum": "10",
-    "verified": "10.291"
+    "minimum": "11",
+    "maximum": "11",
+    "verified": "11.315"
   },
   "styles": [
     "css/styles.css"
@@ -20,128 +20,28 @@
   "relationships": {
     "systems": [
       {
-        "id": "tor2e",
+        "id": "TheWitcherTRPG",
         "type": "system",
-        "manifest": "https://gitlab.com/herve.darritchon/foundryvtt-tor2e/-/raw/main/src/system.json",
+        "manifest": "https://github.com/AnthonyMonette/TheWitcherTRPG/releases/latest/download/system.json",
         "compatibility": {
-          "minimum": "2.0.0",
-          "verified": "2.1.0"
+          "minimum": "0.96",
+          "verified": "0.96"
         }
       }
     ]
   },
   "packs": [
     {
-      "name": "armi",
-      "label": "Armi",
-      "path": "packs/armi.db",
+      "name": "razze",
+      "label": "Razze",
+      "path": "packs/razze",
       "type": "Item",
-      "system": "tor2e",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "armature",
-      "label": "Armature",
-      "path": "packs/armature.db",
-      "type": "Item",
-      "system": "tor2e",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "abilita",
-      "label": "Abilità",
-      "path": "packs/abilita.db",
-      "type": "Item",
-      "system": "tor2e",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "capacita-funeste",
-      "label": "Capacità Funeste",
-      "path": "packs/capacita-funeste.db",
-      "type": "Item",
-      "system": "tor2e",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "equipaggiamento-avversari",
-      "label": "Equipaggiamento Avversari",
-      "path": "packs/equipaggiamento-avversari.db",
-      "type": "Item",
-      "system": "tor2e",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "caratteristiche",
-      "label": "Caratteristiche",
-      "path": "packs/caratteristiche.db",
-      "type": "Item",
-      "system": "tor2e",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "mappe-terra-di-mezzo",
-      "label": "Mappe della Terra di Mezzo",
-      "path": "packs/mappe-terra-di-mezzo.db",
-      "type": "Scene",
-      "system": "tor2e",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "avversari",
-      "label": "Avversari",
-      "path": "packs/avversari.db",
-      "type": "Actor",
-      "system": "tor2e",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "patroni",
-      "label": "Patroni",
-      "path": "packs/patroni.db",
-      "type": "Actor",
-      "system": "tor2e",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "npc",
-      "label": "Npc della Terra di Mezzo",
-      "path": "packs/npc.db",
-      "type": "Actor",
-      "system": "tor2e",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "tabelle-incontri",
-      "label": "Tabelle degli Incontri",
-      "path": "packs/tabelle-incontri.db",
-      "type": "RollTable",
-      "system": "tor2e",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "macro-wip",
-      "label": "Macro-WIP",
-      "path": "packs/macro-wip.db",
-      "type": "Macro",
-      "system": "tor2e",
-      "private": false,
+      "package": "the_witcher_compendium_ita"
       "flags": {}
     }
   ],
   "url": "https://github.com/domtorraco/tor2e-compendium-ita/",
-  "manifest": "https://github.com/domtorraco/tor2e-compendium-ita/releases/latest/download/module.json",
-  "download": "https://github.com/domtorraco/tor2e-compendium-ita/releases/latest/download/module.zip",
-  "description": "Questo modulo aggiunge un compendio in Italiano per il GDR di Unico Anello Seconda Edizione, grazie al contributo di Archer39"
+  "manifest": "https://github.com/domtorraco/the_witcher_compendium_ita/main/module.json",
+  "download": "https://github.com/domtorraco/the_witcher_compendium_ita/releases/latest/download/module.zip",
+  "description": "Questo modulo aggiunge un compendio in Italiano per il GDR di The Witcher, grazie al contributo di Archer39"
 }
