@@ -38,6 +38,22 @@
       "entity": "Item",
       "type": "Item",
       "package": "the_witcher_compendium_ita"
+    },
+    {
+      "name": "magia",
+      "label": "Magia",
+      "path": "packs/magia",
+      "entity": "Item",
+      "type": "Item",
+      "package": "the_witcher_compendium_ita"
+    },    
+    {
+      "name": "professioni",
+      "label": "Professioni",
+      "path": "packs/professioni",
+      "entity": "Item",
+      "type": "Item",
+      "package": "the_witcher_compendium_ita"
     }
   ],
   "url": "https://github.com/domtorraco/the_witcher_compendium_ita",
