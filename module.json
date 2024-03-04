@@ -1,7 +1,7 @@
 {
   "id": "the_witcher_compendium_ita",
   "title": "The Witcher GDR Compendium ITA",
-  "version": "0.2",
+  "version": "0.3",
   "authors": [
     {
       "name": "Balian",
@@ -53,6 +53,14 @@
       "path": "packs/equipaggiamento",
       "entity": "Item",
       "type": "Item",
+      "package": "the_witcher_compendium_ita"
+    },
+    {
+      "name": "bestiario",
+      "label": "Bestiario",
+      "path": "packs/bestiario",
+      "entity": "Actor",
+      "type": "Actor",
       "package": "the_witcher_compendium_ita"
     },
     {
