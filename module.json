@@ -1,7 +1,7 @@
 {
   "id": "the_witcher_compendium_ita",
   "title": "The Witcher GDR Compendium ITA",
-  "version": "0.1",
+  "version": "0.2",
   "authors": [
     {
       "name": "Balian",
@@ -46,7 +46,23 @@
       "entity": "Item",
       "type": "Item",
       "package": "the_witcher_compendium_ita"
-    },    
+    },
+    {
+      "name": "equipaggiamento",
+      "label": "Equipaggiamento",
+      "path": "packs/equipaggiamento",
+      "entity": "Item",
+      "type": "Item",
+      "package": "the_witcher_compendium_ita"
+    },
+    {
+      "name": "esperimenti-rune-e-reliquie",
+      "label": "Esperimenti, Rune e Reliquie",
+      "path": "packs/esperimenti-rune-e-reliquie",
+      "entity": "Item",
+      "type": "Item",
+      "package": "the_witcher_compendium_ita"
+    },
     {
       "name": "professioni",
       "label": "Professioni",
