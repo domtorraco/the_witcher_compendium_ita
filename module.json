@@ -1,7 +1,7 @@
 {
   "id": "the_witcher_compendium_ita",
   "title": "The Witcher GDR Compendium ITA",
-  "version": "0.3",
+  "version": "0.4",
   "authors": [
     {
       "name": "Balian",
@@ -51,6 +51,14 @@
       "name": "equipaggiamento",
       "label": "Equipaggiamento",
       "path": "packs/equipaggiamento",
+      "entity": "Item",
+      "type": "Item",
+      "package": "the_witcher_compendium_ita"
+    },
+    {
+      "name": "artigianato",
+      "label": "Artigianato",
+      "path": "packs/artigianato",
       "entity": "Item",
       "type": "Item",
       "package": "the_witcher_compendium_ita"
