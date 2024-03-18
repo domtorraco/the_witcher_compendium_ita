@@ -2,6 +2,9 @@
 
 ## Channel Log
 
+### 0.5.1
+Aggiunto il bestiario del manuale "Diario di un Witcher"
+
 ### Alpha 0.4
 Aggiunta la Sezione Artigianato e tutte le componenti del manuale "Diario di un Witcher"
 
