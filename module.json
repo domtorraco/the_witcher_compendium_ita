@@ -1,7 +1,7 @@
 {
   "id": "the_witcher_compendium_ita",
   "title": "The Witcher GDR Compendium ITA",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "authors": [
     {
       "name": "Balian",
@@ -11,8 +11,8 @@
   ],
   "compatibility": {
     "minimum": "11",
-    "maximum": "11",
-    "verified": "11.315"
+    "maximum": "12",
+    "verified": "12.328"
   },
   "styles": [
     "css/styles.css"
@@ -24,8 +24,8 @@
         "type": "system",
         "manifest": "https://github.com/AnthonyMonette/TheWitcherTRPG/releases/latest/download/system.json",
         "compatibility": {
-          "minimum": "0.96",
-          "verified": "0.96"
+          "minimum": "1.0.0",
+          "verified": "1.0.0"
         }
       }
     ]
